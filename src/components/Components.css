@@ -1,0 +1,70 @@
+.FormAdd {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.FormTitle {
+  color: rgb(5, 5, 64);
+  text-align: start;
+}
+.InputAdd {
+  margin-bottom: 10px;
+  outline: none;
+}
+.Label {
+  display: flex;
+  justify-content: start;
+  margin-bottom: 10px;
+}
+.Buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.Button {
+  width: 30%;
+  font-weight: 600;
+  padding: 5px;
+  border: 1px solid darkblue;
+  border-radius: 5px;
+  color: blue;
+}
+.Btn {
+  width: 80%;
+  margin-bottom: 10px;
+}
+.List {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-between;
+list-style-type: none;
+}
+.ListItem {
+  width: 30%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+.ItemInfo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.ItemName {
+  color: darkblue;
+  font-size: 24px;
+  font-weight: 800;
+}
+.ItemDesc {
+  color: black;
+  word-break: break-all;
+  font-size: 20px;
+}
+.ItemPrice {
+  color: black;
+  font-size: 20px;
+}
+.ItemAv {
+  color: black;
+  font-size: 20px;
+}

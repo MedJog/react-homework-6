@@ -1,0 +1,11 @@
+.Container {
+  margin: 20px;
+  padding: 40px;
+  background-color: rgb(196, 210, 205);
+  text-align: center;
+}
+.MainTitle {
+  color: rgb(2, 2, 23);
+  font-style: italic;
+  text-decoration: underline;
+}
